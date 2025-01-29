@@ -26,5 +26,4 @@ public class Student {
         System.out.println("First Name: " + getFisrtName() + "Last Name: " + getLastName() + "Age: " + getAge() + "Id: " + getStudentId() );
     }
 
-
 }
